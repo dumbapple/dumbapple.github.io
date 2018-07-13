@@ -12,21 +12,9 @@ body {
 
 
 
-
-
-
-/*div {
-    width: 100px;
-    height: 100px;
-    background: red;
-    -webkit-transition: width 2s;
-    transition: width 2s;
+h1 {
+	font-size: 5em;
 }
-
-div:hover {
-    width: 300px;*/
-
-
 
 .row {
 	font-family: Helvetica;
