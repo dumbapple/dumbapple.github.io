@@ -1,0 +1,56 @@
+html {
+	height: 100%;
+}
+
+body {
+	background-image: url("background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+
+
+
+
+
+/*div {
+    width: 100px;
+    height: 100px;
+    background: red;
+    -webkit-transition: width 2s;
+    transition: width 2s;
+}
+
+div:hover {
+    width: 300px;*/
+
+
+
+.row {
+	font-family: Helvetica;
+	text-align: center;
+	margin: 180px 100px;
+	color: #EEEEEE;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.second {
+	padding-top: 200px;
+}
+
+.btn-secondary {
+	transition: width 1s; height: 1s
+	color: #DDDDDD
+	background-color: #5E12C3;
+	border: 5px solid #3A3A3B;
+}
+
+/*.btn-secondary:hover {
+	width: 2px;
+	height: 2px;
+}*/
+
