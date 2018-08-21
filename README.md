@@ -1,2 +1,2 @@
 # dumbapple.github.io
-Homepage to replace default Chrome tabs
+Default Chrome homepage.
