@@ -1,2 +1,2 @@
 # dumbapple.github.io
-Default Chrome homepage.
+A custom default Google Chrome page.
