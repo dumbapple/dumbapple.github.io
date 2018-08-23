@@ -1,13 +1,10 @@
 html {
     height: 100%;
     color: white;
-
 }
 
 body {
-    /*text-shadow: 2px 2px black;*/
-    font-family: "Helvetica";
-    /*background-image: url("riccardo-chiarini-365677-unsplash.jpg");*/
+    font-family: "Arial Rounded MT Bold";
     background-image: url("thom-schneider-108615-unsplash.jpg");
     height: auto;
     background-position: center;
@@ -37,11 +34,6 @@ h1 {
 
 h2 {
     text-align: center;
-    font-size: 50pt;
+    font-size: 57pt;
 }
 
-h5 {
-    text-align: center;
-    font-size: 26pt;
-    /*text-shadow: 2px 2px black;*/
-}
