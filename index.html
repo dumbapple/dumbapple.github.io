@@ -1,68 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <script type='text/javascript' src='https://cdn.scaledrone.com/scaledrone.min.js'></script>
-  <!--<script type='text/javascript' src='http://0.0.0.0:8080/scaledrone.js'></script>-->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <style>
-    body {
-      font-weight: bold;
-      box-sizing: border-box;
-      font-family: Arial;
-      padding: 13px;
-      display: flex;
-      flex-direction: column;
-      max-height: 100vh;
-    }
+	<title>Ocean Chat</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 
-    .members-count,
-    .members-list,
-    .messages {
-      border: 3px solid #AAAAAA;
-      padding: 15px;
-      margin-bottom: 15px;
-    }
-
-    .messages {
-      flex-shrink: 1;
-      overflow: auto;
-    }
-
-    .message {
-      padding: 5px 0;
-    }
-    .message .member {
-      display: inline-block;
-    }
-
-    .member {
-      padding-right: 10px;
-      position: relative;
-    }
-
-    .message-form {
-      display: flex;
-      
-    }
-    .message-form__input {
-      border: 1px solid #dfdfdf;
-      padding: 10px 15px;
-      font-size: 16px;
-    }
-    .message-form__button {
-      margin: 10px;
-    }
-  </style>
 </head>
 <body>
-  <div class="members-count">-</div>
-  <div class="members-list">-</div>
-  <div class="messages"></div>
-  <form class="message-form" onsubmit="return false;">
-    <input class="message-form__input" placeholder="Type a message.." type="text"/>
-    <input class="message-form__button" value="Send" type="submit"/>
-  </form>
-  <script src="./script.js"></script>
+
+	<h1>Ocean Chat</h1>
+
+	<div id="info">
+		<p>Let your worries wash away with the tide. Problems are like waves; they can be big or small. Using Ocean Chat, you can talk to others and ride out these rocky waves.</p>
+
+		<p>Feeling down? Depressed? Burdened by some event in your life? Use Ocean Chat as a way to casually discuss about your problems with individuals who can relate to your situation. This service is purely for casual discussions, with advice given by other members of the general public.</p>
+
+		<p><b>DISCLAIMER</b>: Ocean Chat is not a suitable substitution for any accredited hotline. 
+		Please remember that this is an intended safe space for users. If you have severe feelings of depression or are having suicidal thoughts, please seek help by interacting with a trained therapist.</p>
+
+	</div>
+
+	<form action="chat.html">
+<input type="submit" value="Start Chat">
+</form>
+
 </body>
 </html>
