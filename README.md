@@ -1,2 +1,3 @@
-# project
-Prototype chat application built with ScaleDrone API for UBC Local Hack Day 2018.
+Probably will make a personal website here.
+
+Currently hosting a chat program built for UBC Local Hack Day 2018.
