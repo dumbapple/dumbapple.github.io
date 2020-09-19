@@ -35,15 +35,15 @@ export const projectsData = [
     url: '',
     repo: 'https://github.com/dumbapple/Go', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'pic1.jpg',
-    title: 'FaceFinder',
-    info: 'A web application that accepts a web image and uses the Clarifai API to detect faces.',
-    info2: 'Created with React.js, Node.js, Express.js, and PostgreSQL',
-    url: '',
-    repo: 'https://github.com/dumbapple/react-playground', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'pic1.jpg',
+  //   title: 'FaceFinder',
+  //   info: 'A web application that accepts a web image and uses the Clarifai API to detect faces.',
+  //   info2: 'Created with React.js, Node.js, Express.js, and PostgreSQL',
+  //   url: '',
+  //   repo: 'https://github.com/dumbapple/react-playground', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'event.jpg',
