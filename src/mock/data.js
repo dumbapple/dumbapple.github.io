@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: "I'm an undergraduate student studying Computer Science at the University of British Columbia. I enjoy learning new ways to solve problems, and am eager to use my skillset to create software solutions.",
   paragraphTwo: "Currently, I'm a part-time tutoring assistant and piano teacher. I love being able to use my knowledge to help others!",
   paragraphThree: 'In my spare time, I enjoy drawing, playing video games with friends, and going to the movies.',
-  resume: 'https://drive.google.com/file/d/17iBaphSLxrfQE2TReau45hk_yl-YK2vi/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1bdv3UpavanpC5EmFWZ6iknP2DG6-rGGZ/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
